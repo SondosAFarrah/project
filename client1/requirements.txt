@@ -1,0 +1,7 @@
+scapy
+pandas
+flask
+tensorflow
+requests
+numpy
+scikit-learn
